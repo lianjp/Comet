@@ -14,4 +14,4 @@
 
 #### 图示
 
-​	![示例图片](C:\Users\Administrator.36WSK7ACDK6H3A9\Desktop\comet-长轮询\示例图片.png)
+​	![示例图片](https://github.com/lianjp/Comet/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png)
